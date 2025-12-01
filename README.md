@@ -40,8 +40,6 @@ I enjoy learning every day and love building clean, modern & smooth UI.
 | Personal Portfolio | My Own Portfolio | *([Personal Portfolio:](https://ahmed6-7.github.io/Myportfolio/))* |
 | Calculator / To-Do App | JavaScript Practice Apps | *([To-Do App:](https://ahmed6-7.github.io/To-Do-List/))* |
 
-> Chaho to main **tumhare projects ke liye live hosting bhi karwa deta hoon** ⚡
-
 ---
 
 ## 🏆 GitHub Trophy

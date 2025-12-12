@@ -49,10 +49,10 @@ I enjoy learning every day and love building clean, modern & smooth UI.
 
 ---
 
-## 📊 GitHub Stats (LATEST WORKING API 2025)
+## 📊 GitHub Stats (100% Working Backup API)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed6-7&show_icons=true&theme=tokyonight&cache_seconds=3600" height="165px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed6-7&layout=compact&theme=tokyonight" height="165px"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmed6-7&show_icons=true&theme=tokyonight" height="165px"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ahmed6-7&layout=compact&theme=tokyonight" height="165px"/>
 </p>
 
 ---
@@ -75,14 +75,6 @@ I enjoy learning every day and love building clean, modern & smooth UI.
 <p align="left">
 <a href="https://www.linkedin.com/in/pir-ahmed-mehmood-6249b9389/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
 <a href="https://www.facebook.com/profile.php?id=61582153967976" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40"/></a>
-<a href="https://www.instagram.com/pirahmedmehmood1/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-<a href="mailto:pirahmedmehmood014@gmail.com"><img src="https://img.icons8.com/fluency/48/email-open.png" width="40"/></a>
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=footer"/>
-new.png" width="40"/></a>
 <a href="https://www.instagram.com/pirahmedmehmood1/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
 <a href="mailto:pirahmedmehmood014@gmail.com"><img src="https://img.icons8.com/fluency/48/email-open.png" width="40"/></a>
 </p>

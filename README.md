@@ -36,37 +36,37 @@ I enjoy learning every day and love building clean, modern & smooth UI.
 ## 📂 Featured Projects
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| Youtube UI Clone | Frontend Practice Project | *([Youtube UI Clone:](https://youtube-clone-assignment1.netlify.app/))* |
-| Personal Portfolio | My Own Portfolio | *([Personal Portfolio:](https://ahmed6-7.github.io/Myportfolio/))* |
-| Calculator / To-Do App | JavaScript Practice Apps | *([To-Do App:](https://ahmed6-7.github.io/To-Do-List/))* |
+| Youtube UI Clone | Frontend Practice Project | *([Youtube UI Clone](https://youtube-clone-assignment1.netlify.app/))* |
+| Personal Portfolio | My Own Portfolio | *([Personal Portfolio](https://ahmed6-7.github.io/Myportfolio/))* |
+| Calculator / To-Do App | JavaScript Practice Apps | *([To-Do App](https://ahmed6-7.github.io/To-Do-List/))* |
 
 ---
 
 ## 🏆 GitHub Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed6-7&theme=dracula&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed6-7&theme=dracula&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed6-7&show_icons=true&theme=tokyonight" height="165px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed6-7&layout=compact&theme=tokyonight" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed6-7&show_icons=true&theme=tokyonight" height="165px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed6-7&layout=compact&theme=tokyonight" height="165px"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed6-7&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ahmed6-7&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🌊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed6-7&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed6-7&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---

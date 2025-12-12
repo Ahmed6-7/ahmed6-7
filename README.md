@@ -82,3 +82,4 @@ I enjoy learning every day and love building clean, modern & smooth UI.
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=footer"/>
+

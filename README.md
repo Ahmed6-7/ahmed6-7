@@ -44,24 +44,18 @@ Here are some projects I built to improve my frontend skills:
 
 ---
 
-## 🏆 GitHub Trophy
+### 🏆 Achievements & GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed6-7&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed6-7&theme=darkhub&row=1&margin-w=15" alt="Trophies" />
 </p>
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed6-7&show_icons=true&theme=tokyonight" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed6-7&layout=compact&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed6-7&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed6-7&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmed6-7&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ahmed6-7&theme=tokyonight" height="180" />
 </p>
 
 ---
@@ -85,5 +79,3 @@ Here are some projects I built to improve my frontend skills:
 
 <!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=footer"/>
-
-
